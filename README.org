@@ -1,0 +1,6 @@
+#+title: Murdoc React Front-End
+
+This project aims to rebuild the Murdoc front-end as a single page React app that will fetch all it's contents from a API only Rails app.
+
+** Authors
+*** [[https:www.github.com/0tt049][@0tt049]]
